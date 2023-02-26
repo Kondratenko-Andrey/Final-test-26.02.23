@@ -1,0 +1,15 @@
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\bin\Debug\net7.0\script_C#.exe
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\bin\Debug\net7.0\script_C#.deps.json
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\bin\Debug\net7.0\script_C#.runtimeconfig.json
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\bin\Debug\net7.0\script_C#.dll
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\bin\Debug\net7.0\script_C#.pdb
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.csproj.AssemblyReference.cache
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.AssemblyInfoInputs.cache
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.AssemblyInfo.cs
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.dll
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\refint\script_C#.dll
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.pdb
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\script_C#.genruntimeconfig.cache
+D:\Geek Brains\Разработчик\I четверть\13. Итоги блока. Выбор специализации\Final test 26.02.23\script_C#\obj\Debug\net7.0\ref\script_C#.dll
